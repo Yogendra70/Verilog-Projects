@@ -18,5 +18,6 @@ This project contains a simple 2-input AND gate implemented in Verilog.
 
 ## About
 
-This project demonstrates basic Verilog design and how to simulate using Xilinx Vivado.
+This project demonstrates the implementation of a basic 2-input AND gate in Verilog and how to simulate it using Xilinx Vivado.
+It includes a simple testbench for functional verification and guides users through RTL simulation setup in Vivado for educational purposes.
 
